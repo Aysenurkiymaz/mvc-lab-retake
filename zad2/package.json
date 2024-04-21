@@ -1,0 +1,13 @@
+{
+  "name": "zad2",
+  "version": "0.0.0",
+  "description": "zad2",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0"
+  },
+  "eslintConfig": {}
+}
